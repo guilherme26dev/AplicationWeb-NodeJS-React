@@ -2,6 +2,5 @@
 #       local Development Tools         #
 #---------------------------------------#
 
-/node_modules
-*.log
+*/node_modules
 *.env
